@@ -10,7 +10,7 @@
 #                                                                             #
 # Instructions:                                                               #
 #   ./zimbraQuotaUsageDomain [-h]                                             #
-#		-h human readable                                                     #
+#     -h human readable                                                       #
 # Version 0.1 (10/10/2014)                                                    #
 #   Begin                                                                     #
 ###############################################################################
